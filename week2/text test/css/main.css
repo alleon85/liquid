@@ -1,0 +1,8 @@
+@font-face {
+	src: "texts/Starjedi.ttf";
+	font-family: 'Starjedi';
+}
+
+*{
+	font-family: 'Starjedi';
+}

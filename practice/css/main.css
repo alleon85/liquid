@@ -1,0 +1,296 @@
+
+*
+{margin: 0;
+padding: 0;
+}
+
+.left img
+{
+	height: 50px;
+    width: 50px;
+    margin-left: 150px;
+    position: absolute;
+    display: inline-block;
+    margin-top: 35px;
+	
+}
+.footer img
+{
+	margin-left: 50px;
+	position: absolute;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+
+
+p
+{
+	font-size: 50px;
+    color: #ffa743;
+    width: auto;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+div.nav 
+{
+	background-color: #fe7e00;
+	height: 120px;
+	margin: 0;
+	display: block;
+	width: 100%;
+	padding: 0%;
+
+}
+.left span
+{
+	font-weight: bold;
+	color: white;
+    font-size: 40px;
+    margin-top: 20px;
+
+}
+
+.left p
+{
+
+}
+
+nav button
+{
+	background-color: #fe7e00;
+	display: block;
+}
+
+.button ul
+{
+	display: inline-block;
+}
+
+.nav ul.right
+{
+	display: inline-block;
+	font-size: 13px
+	vertical-align: bottom;
+	font-weight: bold;	
+	
+	background-color: #fe7e00;
+	margin-right: 355px;
+	
+	float: right;
+	margin-top: 50px;
+	display: flex;
+	list-style-type: none;
+	}
+
+body
+	{
+		margin: 0;
+		padding: 0;
+	}
+
+.footer
+
+{
+	background-color: #7accc8;
+	bottom: 0;
+	font-size: 10px;
+	height: 120px;
+	position: fixed;
+	width: 100%;
+}
+div.orange img
+{
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-left: 70px;
+  
+}
+
+.left sup
+{
+	color: #ffa743;
+	font-size: 20px}
+
+}
+.right a
+{
+
+		color: white;
+		margin-right: 10px;
+		padding: 0;
+		color: #ffa743;
+}
+div.nav ul.left
+{
+	float: left;
+	list-style: none;
+}
+.left li
+{
+	float: left;
+	margin-left: 175px;
+	margin-top: 20px;
+}
+div
+{
+	display: inline-block;
+}
+div.nav span.left
+{
+	color: white;
+}
+
+
+div.word 
+{
+	margin-top: 100px;
+    width: 40%;
+    float: right;
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    margin-right: 80px;
+}
+
+sup
+{
+
+}
+.section
+{
+	margin-top: 100px;
+    width: 40%;
+    float: right;
+    text-align: left;
+    margin-right: 350px;
+}
+.section p.word
+{
+	font-size: 50px;
+}
+.section span 
+{
+	font-weight: bold;
+}
+.web span
+{
+color:#7accc8;
+font-size: 50px;
+}
+
+
+.quote button
+{
+    height: 80px;
+    width: 300px;
+    background-color: #fe7e00;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -43px;
+}
+
+.case button
+{
+	
+	 height: 80px;
+    width: 300px;
+    background-color: #7accc8;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -43px;
+}
+.button
+{
+	display: inline-block;
+}
+
+.search input
+{
+    margin-top: 70px;
+    right: 100px;
+    text-align: center;
+}
+
+.nav a
+{
+	color: #ffa743;
+}
+
+.nav li
+{
+	padding: 0 30px;
+    display: inline-flex;
+    font-size: 20px;
+}
+
+.word sup
+{
+	font-size: 20px;
+}
+
+.button ul
+{
+
+}
+
+.button li
+{
+	display: inline-block;
+
+}
+.button li.quote
+{
+	margin-right: 50px;
+}
+
+.button li.case
+{
+
+}
+
+
+.button
+{
+    margin-top: 450px;
+    position: absolute;
+    right: 400px;
+}
+.search input
+{
+    margin-top: 125px;
+    position: absolute;
+    right: 200px;
+    width: 200px;
+    height: 30px;
+    background-color: #efefed;
+}
+
+.search img
+{
+	color: black;
+    height: 20px;
+    position: absolute;
+    margin-top: 130px;
+    display: inline-block;
+    margin-left: 1600px;
+}
+div.search
+{
+	display: inherit;
+}
+li.juice p
+{
+    font-size: 40px;
+    color: #ffa743;
+    width: auto;
+    display: inline-block;
+    margin-top: 20px;
+}
+/* I WANT ALL THE dot buttons */

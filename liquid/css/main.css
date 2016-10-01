@@ -1,0 +1,52 @@
+html {
+	background-color: #ebebeb;
+}
+
+body {
+	margin: 0;
+}
+
+.navsite {
+	display: inline;
+}
+
+.fa {
+	display: inline;
+	position: absolute;
+	margin-left: 15px;
+}	
+
+.navsite p {
+	margin-left: 38px;
+	margin-top: 25px
+	color: black;
+	font-family: fantasy;
+}
+	
+.right {
+	float: right;
+	margin-right: 45px;
+	margin-top: -35px;
+}
+
+.navsite {
+	display: inline;
+}
+
+.right li {
+	list-style: none;
+	display: inline-block;
+	padding: 0 20px;
+}
+
+hr {
+	margin-right: 25px;
+	margin-left: 15px;
+	color: black;
+	margin-top: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}

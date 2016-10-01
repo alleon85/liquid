@@ -1,0 +1,17 @@
+li {
+	display: inline-block;
+	padding-right: 35px;
+	color: #fff;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+ul {
+	margin: 0;
+	background-color: black;
+	padding: 10px 10px;
+	text-align: center;
+}
+
+body {
+	margin: 0
+}
